@@ -5,7 +5,7 @@ Dalia Gomez - Module 18 Challenge: NoSQL, Social Netowork - The Directory.
 The purpose of this challenge was to build an API for a social network web application where users can share their toughts, react to friends' thoughts and create a friend list. Express.js, MongoDB and Mongoose ODM were used.
 
 ## Links
-- URL of the GitHub repository that contains the code: 
+- URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module18-TheDirectory
 
 ## User Story
 AS A social media startup
